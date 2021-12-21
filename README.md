@@ -7,13 +7,11 @@ Blogs API is a rails based api application to create posts, create comments into
 4. Request master key from repo owner
     - Create a file master.key in config folder
     - Copy the received key in config/master.key
-5. Request environment specific credentials keys from repo owner
-    - Create files master.key in config folder
-6. bundle exec rake db:create
-7. bundle exec rake db:migrate
-8. bundle exec rake db:seed
+5. bundle exec rake db:create
+6. bundle exec rake db:migrate
+7. bundle exec rake db:seed
     - Use dump if it is available
-10. Start Rails server
+8. Start Rails server
 
 Ruby - 2.6.5
 Rails - 6.1.3
