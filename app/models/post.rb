@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Post < ApplicationRecord
   # validations
   validates :title, presence: true

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Comment < ApplicationRecord
   # validations
   validates :content, presence: true

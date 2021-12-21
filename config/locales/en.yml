@@ -30,4 +30,17 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  rest:
+    problem:
+      bad_request:  Bad Request
+      unauthorized: Unauthorized
+      forbidden:    Forbidden
+      not_found:    Resource not found
+      unprocessable_entity: Unprocessable Entity
+  errors:
+    route:
+      not_found: "Path %{path} is not defined in existing routes"
+    model:
+      not_found: "Cannot find a %{model} with id '%{id}'"
+  sessions:
+    wrong_login_or_password: Wrong email or password!
