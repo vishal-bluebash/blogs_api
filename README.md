@@ -30,3 +30,8 @@ Rails - 6.1.3
 2. Active record serializer with on demand data
 3. Swagger Style API documentation (Postman collection can be found here https://documenter.getpostman.com/view/7302433/UVRBnRfM)
 
+
+### Rake tasks
+  - ` bundle exec rake analytics:users`
+
+<img width="1437" alt="Screenshot 2021-12-21 at 7 31 27 PM" src="https://user-images.githubusercontent.com/43650278/146942550-f786c57f-7064-4d5f-bec9-b165e4d6974e.png">
