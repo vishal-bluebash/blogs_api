@@ -28,5 +28,5 @@ Rails - 6.1.3
 ### Development notes ###
 1. Used rspec for testing (Done Request test cases to demonstrate )
 2. Active record serializer with on demand data
-3. Swagger Stylye API documentation (Postman collection can be found here https://documenter.getpostman.com/view/7302433/UVRBnRfM)
+3. Swagger Style API documentation (Postman collection can be found here https://documenter.getpostman.com/view/7302433/UVRBnRfM)
 
